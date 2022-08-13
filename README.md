@@ -22,7 +22,9 @@
 
 :bulb: **Veja uma amostra a seguir:**
 
-  ![project sample](https://www.figma.com/file/BDQgAJvOe4KNUjmrYh5t68/TrybeTunes-Figma)
+<img src="/images/requisito6_1.gif" width="500"> <img src="/images/requisito7.gif" width="500">
+<img src="/images/requisito8.gif" width="500"> <img src="/images/requisito14.gif" width="500">
+
 
 ## Habilidades usadas:
 
